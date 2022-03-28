@@ -16,10 +16,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.container {
-    background-color: red;
+    list-style-type: none;
 }
 
 
@@ -27,6 +24,7 @@ body {
 
 #lista {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
@@ -34,8 +32,7 @@ body {
 
 /* classi dei li */
 
-
-/* .numeri {
+.numeri {
     background-color: #3D88AE;
 }
 
@@ -49,4 +46,4 @@ body {
 
 .b {
     background-color: #F9D277;
-} */
+}
