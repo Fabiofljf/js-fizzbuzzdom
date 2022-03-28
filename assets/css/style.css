@@ -23,6 +23,12 @@ h1 {
     color: white;
 }
 
+.col {
+    margin: 1rem;
+    padding: 1rem;
+    flex-basis: calc((100% / 12) * 1.3);
+}
+
 
 /* Main */
 
