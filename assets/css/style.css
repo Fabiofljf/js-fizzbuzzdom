@@ -1,5 +1,52 @@
+/* commons roules */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color: #183A4A;
+}
+
+.square {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: red;
+}
+
+
+/* Main */
+
+#lista {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* classi dei li */
+
+
+/* .numeri {
+    background-color: #3D88AE;
+}
+
+.fb {
+    background-color: #DE5471;
+}
+
+.f {
+    background-color: #61D2A4;
+}
+
+.b {
+    background-color: #F9D277;
+} */
